@@ -1,0 +1,6 @@
+Crítica		-> #FF0000
+Muito Alta	-> #FF4848
+Alta		-> #FF6923
+Média		-> #E4FF08
+Baixa		-> #29AE22
+Muito Baixa	-> #4276DF
